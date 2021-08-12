@@ -11,3 +11,4 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 - Jupyter Notebook (anaconda 3)
 - Python
 - Importar as bibliotecas 
+
